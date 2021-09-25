@@ -1,0 +1,22 @@
+﻿----New Update----
+-fix Farm Exp
+-Fix Beats Raid
+----Old Update----
+-Add Only Get Hp Flat Hero and Legend in 3 Team
+----Old Update----
+-fix follow game
+-fix link update auto
+----Old Update----
+-fix đa chiều
+- some Bug
+----Old Update----
+-add Filter:Stone by name for Rift 3 Team
+-Fix buy Engery
+----Old Update----
+-fix some bug
+-fix 2 Sub Property
+-Add Rta Farm Point
+----Old Update----
+-fix filter Dimensional Hole
+----Old Update----
+https://raw.githubusercontent.com/Dvhtrung/Dvhtrung/main/Summoner-Install.zip
